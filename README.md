@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 Currently I am a Blockchain developer
 - 💞️ Openness to collaborations and teamwork
-- 📫 info@burakaydogan.org.tr
+- 📫 info@burakaydogan.tr
 
 <!---
 burakaydoganorg/burakaydoganorg 
